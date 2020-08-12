@@ -51,12 +51,6 @@ def nyc_pigeon_organizer(data)
   
   new_hash
 
-  #new_hash.collect do |name|
-  #  data.each do |attr_key, attr_val|
-  #    attr_val.each do |type_key, type_val|
-  #      type_val.each do |name|
-  #        if 
-
 end
 
 puts nyc_pigeon_organizer(pigeon_data)
